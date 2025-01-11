@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+__pycache__/
+*.tmp
+db/*.jpg
+db/*.png
+example_data/.DS_Store
